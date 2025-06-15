@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "text": "리드온 WBS 수립하기",
+    "text": "리드온 WBS 수립 누가 안해주나",
     "completed": false
   },
   {
     "id": 2,
-    "text": "리드온 디자인 시안 검토하기",
+    "text": "리드온 디자인 언제 다하나",
     "completed": true
   },
   {
     "id": 3,
-    "text": "API 문서 작성하기",
+    "text": "API 문서 작성하기 어케하는데",
     "completed": false
   }
 ]
